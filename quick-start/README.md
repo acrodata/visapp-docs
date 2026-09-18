@@ -1,2 +1,1 @@
-# Page 1
-
+# Quick start
