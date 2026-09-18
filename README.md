@@ -1,4 +1,4 @@
-# Introduction
+# 👋 Introduction
 
 Acrodata Visapp is a data visualization application that allows you to quickly create data dashboards or other data panels.
 
