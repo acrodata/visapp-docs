@@ -1,10 +1,9 @@
-# Table of contents
+# 目录
 
-* [👋 简介](README.md)
-* [🚀 快速开始](kuai-su-kai-shi/README.md)
-  * [创建应用](kuai-su-kai-shi/chuang-jian-ying-yong.md)
-  * [选择组件](kuai-su-kai-shi/xuan-ze-zu-jian.md)
-  * [修改样式](kuai-su-kai-shi/xiu-gai-yang-shi.md)
-  * [接入数据](kuai-su-kai-shi/jie-ru-shu-ju.md)
-  * [交互设置](kuai-su-kai-shi/jiao-hu-she-zhi.md)
-* [📦 组件指南](zu-jian-zhi-nan.md)
+* [简介](README.md)
+* [快速入门](quick-start/README.md)
+  * [创建应用](quick-start/create-an-application.md)
+  * [插入组件](quick-start/insert-a-component.md)
+  * [修改组件样式](quick-start/modify-component-styles.md)
+  * [连接数据源](quick-start/connect-a-data-source.md)
+  * [设置交互](quick-start/setup-interactions.md)
