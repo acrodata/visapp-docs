@@ -7,3 +7,4 @@
   * [Modify component styles](quick-start/modify-component-styles.md)
   * [Connect a data source](quick-start/connect-a-data-source.md)
   * [Setup interactions](quick-start/setup-interactions.md)
+* [Component guide](component-guide.md)
