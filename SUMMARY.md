@@ -10,3 +10,7 @@
 * [可视化编辑器](visual-editor.md)
 * [数据源](data-sources.md)
 * [组件指南](component-guide.md)
+
+## 📚 reference
+
+* [Mock 数据](reference/mock-data.md)
