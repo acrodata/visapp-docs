@@ -10,3 +10,7 @@
 * [Visual editor](visual-editor.md)
 * [Data sources](data-sources.md)
 * [Component guide](component-guide.md)
+
+## 📚 Reference
+
+* [Mock data](reference/mock-data.md)
