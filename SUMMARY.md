@@ -10,7 +10,7 @@
 * [可视化编辑器](visual-editor/README.md)
   * [组件面板](visual-editor/component-panel.md)
   * [图层面板](visual-editor/layer-panel.md)
-  * [画布](visual-editor/canvas.md)
+  * [工作区](visual-editor/workspace.md)
   * [页面配置](visual-editor/page-settings.md)
   * [属性面板](visual-editor/shu-xing-mian-ban/README.md)
     * [基础配置](visual-editor/shu-xing-mian-ban/ji-chu-pei-zhi.md)
