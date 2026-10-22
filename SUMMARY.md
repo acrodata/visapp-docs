@@ -12,10 +12,7 @@
   * [图层面板](visual-editor/layer-panel.md)
   * [工作区](visual-editor/workspace.md)
   * [页面配置](visual-editor/page-settings.md)
-  * [属性面板](visual-editor/shu-xing-mian-ban/README.md)
-    * [基础配置](visual-editor/shu-xing-mian-ban/ji-chu-pei-zhi.md)
-    * [数据配置](visual-editor/shu-xing-mian-ban/shu-ju-pei-zhi.md)
-    * [交互配置](visual-editor/shu-xing-mian-ban/jiao-hu-pei-zhi.md)
+  * [组件配置](visual-editor/component-settings.md)
 * [数据源](data-sources.md)
 * [组件指南](component-guide.md)
 
