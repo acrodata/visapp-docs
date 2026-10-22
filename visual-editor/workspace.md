@@ -16,7 +16,7 @@
 
 ### 标尺
 
-<figure><img src="../.gitbook/assets/Xnip2026-10-21_17-16-18.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Xnip2026-10-21_17-16-18.jpg" alt=""><figcaption><p>辅助线</p></figcaption></figure>
 
 按住按标尺可以拖出辅助线，双击辅助线可以将其删除，点击左上角的小眼睛图标可以隐藏辅助线。
 

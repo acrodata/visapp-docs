@@ -7,7 +7,7 @@
   * [修改组件样式](quick-start/modify-component-styles.md)
   * [连接数据源](quick-start/connect-a-data-source.md)
   * [设置交互](quick-start/setup-interactions.md)
-* [可视化编辑器](visual-editor/README.md)
+* [✏️ 可视化编辑器](visual-editor/README.md)
   * [组件面板](visual-editor/component-panel.md)
   * [图层面板](visual-editor/layer-panel.md)
   * [工作区](visual-editor/workspace.md)
