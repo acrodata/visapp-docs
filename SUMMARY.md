@@ -12,7 +12,10 @@
   * [图层面板](visual-editor/layer-panel.md)
   * [工作区](visual-editor/workspace.md)
   * [页面配置](visual-editor/page-settings.md)
-  * [组件配置](visual-editor/component-settings.md)
+  * [组件配置](visual-editor/component-settings/README.md)
+    * [基础配置](visual-editor/component-settings/basic.md)
+    * [数据配置](visual-editor/component-settings/data.md)
+    * [交互配置](visual-editor/component-settings/interaction.md)
 * [数据源](data-sources.md)
 * [组件指南](component-guide.md)
 

@@ -1,10 +1,9 @@
 # 组件配置
 
-<figure><img src="../.gitbook/assets/Xnip2026-10-22_10-55-43.jpg" alt="" width="318"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Xnip2026-10-22_14-11-05.jpg" alt="" width="319"><figcaption></figcaption></figure>
 
 1. 基础设置：包括组件尺寸、位移、旋转角度、透明度、定制化配置项等
 2. 数据配置：配置组件的数据源，包括静态数据、随机数据、API、CSV、数据库等
 3. 交互设置：配置组件之间的交互关系，包括交互事件和交互动作
-4. 组件公共属性
-5. 组件定制化配置
-6. 定制化配置的 JSON 数据，允许复制和粘贴
+4. 组件别名（图层面板双击组件名称可修改）
+5. 组件版本及组件唯一 ID
