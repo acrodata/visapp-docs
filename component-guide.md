@@ -1,4 +1,0 @@
-# Component guide
-
-Coming soon
-

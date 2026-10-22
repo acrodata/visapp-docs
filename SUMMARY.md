@@ -17,7 +17,7 @@
     * [Data Settings](visual-editor/component-settings/data.md)
     * [Interaction Settings](visual-editor/component-settings/interaction.md)
 * [Data sources](data-sources.md)
-* [Component guide](component-guide.md)
+* [Component guides](component-guides.md)
 
 ## 📚 Reference
 
