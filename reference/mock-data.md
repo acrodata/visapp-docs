@@ -1,7 +1,7 @@
-# Mock 数据
+# 模拟数据
 
 {% hint style="info" %}
-Mock 数据由 Mock.js 驱动。
+模拟数据由 Mock.js 驱动。
 {% endhint %}
 
 Mock.js 的语法规范包括两部分：

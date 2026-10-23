@@ -7,6 +7,11 @@
   * [修改组件样式](quick-start/modify-component-styles.md)
   * [连接数据源](quick-start/connect-a-data-source.md)
   * [设置交互](quick-start/setup-interactions.md)
+* [🖥️ 工作台](workspace/README.md)
+  * [我的文件](workspace/my-files.md)
+  * [数据源](workspace/data-sources.md)
+  * [模板](workspace/templates.md)
+  * [设置](workspace/settings.md)
 * [✏️ 可视化编辑器](visual-editor/README.md)
   * [组件面板](visual-editor/component-panel.md)
   * [图层面板](visual-editor/layer-panel.md)
@@ -16,9 +21,10 @@
     * [基础配置](visual-editor/component-settings/basic.md)
     * [数据配置](visual-editor/component-settings/data.md)
     * [交互配置](visual-editor/component-settings/interaction.md)
-* [数据源](data-sources.md)
-* [组件指南](component-guide.md)
+  * [组件数据源](visual-editor/component-data-sources.md)
 
-## 📚 reference
+## 📚 参考手册 <a href="#reference" id="reference"></a>
 
-* [Mock 数据](reference/mock-data.md)
+* [组件指南](reference/component-guide.md)
+* [自定义组件](reference/custom-component.md)
+* [模拟数据](reference/mock-data.md)
