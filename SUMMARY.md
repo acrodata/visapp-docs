@@ -11,7 +11,7 @@
   * [我的文件](workspace/my-files.md)
   * [数据源](workspace/data-sources.md)
   * [模板](workspace/templates.md)
-  * [设置](workspace/settings.md)
+  * [可视化插件](workspace/visuals.md)
 * [✏️ 可视化编辑器](visual-editor/README.md)
   * [组件面板](visual-editor/component-panel.md)
   * [图层面板](visual-editor/layer-panel.md)

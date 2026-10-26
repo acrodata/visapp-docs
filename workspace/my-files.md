@@ -1,19 +1,18 @@
 # 我的文件
 
-<figure><img src="../.gitbook/assets/Xnip2026-10-23_16-58-59.jpg" alt="" width="375"><figcaption><p>创建</p></figcaption></figure>
+### 创建
 
-<figure><img src="../.gitbook/assets/Xnip2026-10-23_17-12-18.jpg" alt="" width="375"><figcaption><p>操作</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Xnip2026-10-26_11-27-49.jpg" alt=""><figcaption></figcaption></figure>
 
-1. 快速创建
-2. 从模板创建
-3. 导入
-4. 发布
-5. 复制
-6. 导出
-7. 删除
+创建应用有三种方式：
 
-### 重命名
+1. 快速创建：生成一个名称为“未命名”的应用并立即跳转到 “编辑”模式。
+2. 从模板创建：可以选择系统内置模板，也可以自定义模板
+3. 导入文件：必须是导出的文件才允许导入
 
-<figure><img src="../.gitbook/assets/Xnip2026-10-23_17-12-59.jpg" alt="" width="286"><figcaption></figcaption></figure>
+### 操作
 
-双击文件名称可以重命名。
+<figure><img src="../.gitbook/assets/Xnip2026-10-26_11-30-05.jpg" alt=""><figcaption></figcaption></figure>
+
+1. 双击文件名称可以重命名
+2. 操作按钮，点击显示下拉菜单
