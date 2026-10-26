@@ -21,9 +21,10 @@
     * [Basic Settings](visual-editor/component-settings/basic.md)
     * [Data Settings](visual-editor/component-settings/data.md)
     * [Interaction Settings](visual-editor/component-settings/interaction.md)
-* [Data sources](data-sources.md)
-* [Component guides](component-guides.md)
+  * [Data sources](visual-editor/data-sources.md)
 
 ## 📚 Reference
 
+* [Component guides](reference/component-guides.md)
+* [Custom component](reference/custom-component.md)
 * [Mock data](reference/mock-data.md)
