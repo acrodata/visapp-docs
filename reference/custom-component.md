@@ -1,2 +1,3 @@
 # Custom component
 
+Coming soon
