@@ -11,7 +11,7 @@
   * [My Files](workspace/my-files.md)
   * [Data Sources](workspace/data-sources.md)
   * [Templates](workspace/templates.md)
-  * [Visual Plugins](workspace/visuals.md)
+  * [Visuals](workspace/visuals.md)
 * [✏️ Visual Editor](visual-editor/README.md)
   * [Component Panel](visual-editor/component-panel.md)
   * [Layer Panel](visual-editor/layer-panel.md)
